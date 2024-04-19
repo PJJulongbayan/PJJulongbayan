@@ -2,10 +2,13 @@
 
 I'm PJ from Manila, and I am a Data Scientist. I enjoy leveraging data and on business environments. 
 
-Skills: Machine Learning / Python / R/ SQL/ Excel / Qlik
+## Skills and Experience
+* 💻 Python / R / SQL / Qlik / Excel 
+* 🌱 I manage data science teams
+* 💬 I thaught Industrial Engineering and Statistics and Probability courses in the university
 
-- 🌱 I’m currently learning Large Language Models 
-- 💬 Ask me about Managing data science teams 
+## Skills and Experience
+- 🤔 I’m learning Large Language Models 
 - 📫 How to reach me: email me at pj.julongbayan@gmail.com 
 - ⚡ Fun fact: I enjoy bike cycling with my siblings.  
 
