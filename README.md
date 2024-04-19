@@ -5,7 +5,7 @@ I'm PJ from Manila, and I am a Data Scientist. I enjoy leveraging data and on bu
 ### Skills and Experience
 * 💻 Python / R / SQL / Qlik / Excel 
 * 🌱 I manage data science teams
-* 💬 I thaught Industrial Engineering and Statistics and Probability courses in the university
+* 💬 I taught Industrial Engineering and Statistics and Probability courses in the university
 
 ### Skills and Experience
 - 🤔 I’m learning Large Language Models 
