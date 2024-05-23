@@ -1,6 +1,6 @@
 ### Hi there,  let's learn and share knowledge together. 
 
-I'm PJ from Manila, and I am a Data Scientist. I enjoy leveraging data on business environments. 
+I'm PJ from Manila, and I am a Senior Manager of Data Analytics focused on Predictive Analytics for Operations. I enjoy leveraging data on business environments. 
 
 ### Skills and Experience
 * 💻 Python / R / SQL / Qlik / Excel 
